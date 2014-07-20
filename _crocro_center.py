@@ -39,7 +39,6 @@ class CroCro_Center(inkex.Effect):
 		if len(self.selected) <= 0: return
 
 		# 選択要素を取得
-		# グループ内のtransformを展開
 		# バウンディングボックスの取得
 		sel = self.selected
 		bbox = simpletransform.computeBBox(sel.values())
