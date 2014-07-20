@@ -83,7 +83,7 @@ com.crocro.inkscape.center
 
 「Inkscpae」のエクステンションでは、SVGを直接編集すると書きました。しかし、それはかなり荷が重いです。そこで、「Inkscpae」のエクステンションには、SVGを編集するのに役立つモジュールが入っています。
 
-*Python modules for extensions - Inkscape Wiki
+* Python modules for extensions - Inkscape Wiki
 	* <http://wiki.inkscape.org/wiki/index.php/Python_modules_for_extensions>
 * Yusai Works | モジュール関連
 	* <http://yworks.webcrow.jp/inkscape_extension/module.html>
